@@ -1,0 +1,11 @@
+/.idea
+/.classpath
+/log.txt
+*.iml
+classes/
+branches/
+Dockerfile
+out/
+.project
+/bin
+/target
